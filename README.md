@@ -12,5 +12,3 @@ pgflow/pgflow is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![PLACE_HOLDER_IMAGE](PLACE_HOLDER_IMAGE.png)
-
